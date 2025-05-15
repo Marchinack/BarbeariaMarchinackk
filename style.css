@@ -138,5 +138,13 @@ form label, form legend {
 }
 
 thead {
-  background-color: grey
+  background-color: grey;
+  color: white;
+  font-weight: bold;
+}
+
+td, th {
+  border: solid;
+  color: black;
+  padding: 8px 15px;
 }
